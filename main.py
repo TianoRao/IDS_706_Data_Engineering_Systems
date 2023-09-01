@@ -1,2 +1,2 @@
-def get_average(list):
-    return sum(list)/len(list)
+def get_average(l):
+    return sum(l)/len(l)
