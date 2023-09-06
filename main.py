@@ -1,4 +1,2 @@
-import pandas as pd
-
-def describe(df):
-    
+def get_average(l):
+    return sum(l)/len(l)
