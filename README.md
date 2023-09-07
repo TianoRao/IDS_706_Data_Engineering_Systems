@@ -22,5 +22,10 @@ This repo is a python template that can be used for following projects. Using th
 ## Format and test errors
 1. `make format`
 2. `make lint`
+
+<img width="564" alt="Screenshot 2023-09-07 at 1 08 36 PM" src="https://github.com/TianoRao/IDS_706_Data_Engineering_Systems/assets/104114843/44038fea-b277-450e-a4d8-db70cd9dbd98">
+
+
 3. `make test`
+<img width="875" alt="Screenshot 2023-09-07 at 1 10 14 PM" src="https://github.com/TianoRao/IDS_706_Data_Engineering_Systems/assets/104114843/0ede2227-b663-40d2-9762-bdf69304bf48">
 
