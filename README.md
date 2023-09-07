@@ -21,6 +21,6 @@ This repo is a python template that can be used for following projects. Using th
 
 ## Format and test errors
 1. `make format`
-2. `make test`
-
+2. `make lint`
+3. `make test`
 
